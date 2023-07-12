@@ -5,4 +5,3 @@ I love everything low level, free software and Im always open to conversations <
 compuddles :: Love
 compuddles = compiling .&. cuddles -- gimme please
 ~~~
-\- someone who has hurt me
