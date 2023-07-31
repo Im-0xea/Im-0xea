@@ -8,4 +8,4 @@ cgit: https://cgit.socki.moe
 ~~~
  -- Your problems are solved in an abandoned branch somewhere
 ~~~
-- r2
+\- Radare2
