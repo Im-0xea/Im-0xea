@@ -6,6 +6,6 @@ Im always open to conversations, so if you want to talk, just say hi <3
 
 cgit: https://cgit.socki.moe
 ~~~
- -- Your problems are solved in an abandoned branch somewhere
+ -- We don't make mistakes... just happy little segfaults.
 ~~~
 \- Radare2
